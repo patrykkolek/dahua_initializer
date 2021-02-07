@@ -1,0 +1,6 @@
+sudo apt install git npm -y
+sudo npm install -g selenium-side-runner
+sudo apt update 
+sudo apt-get install firefox-geckodriver -y 
+git clone https://github.com/patrykkolek/dahua_initializer.git
+
